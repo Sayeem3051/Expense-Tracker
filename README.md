@@ -13,6 +13,7 @@ A simple Streamlit application to track and analyze your personal daily expenses
 - Streamlit
 - Pandas
 - Plotly
+- numpy
 
 ## Installation and Execution
 
@@ -35,3 +36,4 @@ A simple Streamlit application to track and analyze your personal daily expenses
 - **Streamlit**: Web application framework for the UI.
 - **Pandas**: Used for data manipulation, aggregation, and reading/writing the CSV.
 - **Plotly Express**: Used for generating interactive pie and bar charts.
+
